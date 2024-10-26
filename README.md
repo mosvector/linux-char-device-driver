@@ -13,7 +13,7 @@ sudo modprobe -r mosvector
 
 ## Dev Environment
 
-```shell
+```console
 $ uname -a
 Linux RaspberryPi 6.6.31+rpt-rpi-2712 #1 SMP PREEMPT Debian 1:6.6.31-1+rpt1 (2024-05-29) aarch64 GNU/Linux
 $ sudo apt install raspberrypi-kernel-headers
